@@ -1,0 +1,4 @@
+altcoin
+=======
+
+altcoin trader
